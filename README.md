@@ -16,6 +16,7 @@ Projects to do and articles to read
 * Neo4J Medium article
 * Spark streaming Medium article
 * Jom DMD / Medium article (whichever)
+* Port to Scala 3 : https://github.com/ldbc/ldbc_snb_datagen_spark
 
 ## Important
 
