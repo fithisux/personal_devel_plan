@@ -1,4 +1,5 @@
 # Personal Development Plan
+
 Projects to do and articles to read
 
 ## Personal Projects
@@ -32,16 +33,31 @@ Projects to do and articles to read
 
 ### In Flight
 
+* GeoTools tutorials: Tutorial -> https://docs.geotools.org/latest/userguide/
+
 * Flink SQL : https://www.confluent.io/blog/getting-started-with-apache-flink-sql/
+
 * Mike Shah D : https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV
+
 * MongoDB + Data Modelling: 
 	- https://www.youtube.com/playlist?list=PLBY-MyA5JvKnT_xdCxRy_fu8A9q3h__oM
 	- https://www.mongodb.com/docs/kafka-connector/current/quick-start/ **DONE**
 	- https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%5D **DONE**
 	
+* Delta lake:
+	- https://docs.delta.io/latest/index.html **DONE**
+	- https://docs.gcp.databricks.com/delta/index.html **DONE**
+	- https://books.japila.pl/delta-lake-internals/
+	- https://www.mage.ai/blog/how-to-build-a-data-pipeline-using-delta-lake
+	
+* KSQLDB :
+	- https://developer.confluent.io/learn-kafka/inside-ksqldb/streaming-architecture/ **DONE**
+	- https://www.youtube.com/playlist?list=PLa7VYi0yPIH3ulxsOf5g43_QiB-HOg5_Y
+	
 * Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
 
 ### Back Burner
+
 * Redis stream in action: https://itnext.io/redis-streams-in-action-part-4-serverless-monitoring-service-faef52ee58db
 
 * DBT incremental : https://medium.com/@aaronbannin/dbt-incremental-cookbook-d70331ef879a
@@ -66,11 +82,6 @@ Projects to do and articles to read
 	- https://docs.databricks.com/en/delta-live-tables/index.html
 	- https://afroinfotech.medium.com/why-i-dislike-delta-live-tables-f9370cc58e77
 	
-* Delta lake:
-	- https://docs.delta.io/latest/index.html **DONE**
-	- https://docs.gcp.databricks.com/delta/index.html **DONE**
-	- https://books.japila.pl/delta-lake-internals/
-	- https://www.mage.ai/blog/how-to-build-a-data-pipeline-using-delta-lake
 	
 * Spark structured streaming: 
 	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
@@ -82,11 +93,8 @@ Projects to do and articles to read
 	- https://docs.google.com/presentation/d/155BtY8tEjNbi11CxqEi4zSbiZORZLcEBGIAVznWQT5Q/edit?usp=drivesdk
 	- https://github.com/cescoffier/devoxx-greece-modern-data-streaming-demo
 
-* KSQLDB :
-	- https://developer.confluent.io/learn-kafka/inside-ksqldb/streaming-architecture/ **DONE**
-	- https://www.youtube.com/playlist?list=PLa7VYi0yPIH3ulxsOf5g43_QiB-HOg5_Y
+### Low priority
 
-## Low priority
 * Flattening ASTs (and Other Compiler Data Structures):  https://www.cs.cornell.edu/~asampson/blog/flattening.html 
 
 * AWS Dynamo Data Modelling: https://www.youtube.com/watch?v=f43HZlWWGrg
@@ -105,8 +113,7 @@ Projects to do and articles to read
 	- https://www.section.io/engineering-education/univariate-time-series-using-recurrent-neural-networks/
 	- https://towardsdatascience.com/temporal-loops-intro-to-recurrent-neural-networks-for-time-series-forecasting-in-python-b0398963dc1f
 
-
-## Completed
+### Completed
 
 * DBT Tuts : 
 	- https://docs.getdbt.com/docs/get-started/getting-started-dbt-core
