@@ -18,6 +18,12 @@ Projects to do and articles to read
 * Jom DMD / Medium article (whichever)
 * Port to Scala 3 : https://github.com/ldbc/ldbc_snb_datagen_spark
 
+
+### Completed
+
+* Bytewax streaming with Gkliatis : https://fithis2001.medium.com/porting-a-kstreams-demo-to-bytewax-a7de90e70e45	
+* My caching solution in Medium: https://medium.com/@fithis2001/ttl-caching-with-an-expiring-dict-e5a2711e080c
+
 ## Important
 
 ### In Flight
@@ -31,7 +37,36 @@ Projects to do and articles to read
 
 * Flattening ASTs (and Other Compiler Data Structures):  https://www.cs.cornell.edu/~asampson/blog/flattening.html 
 * GraphFrames tutorial : https://graphframes.github.io/graphframes/docs/_site/index.html
+* DuckDB vs Pandas vs Polars: https://motherduck.com/blog/duckdb-versus-pandas-versus-polars/
+* Graph Duck: https://maxhalford.github.io/blog/graph-components-duckdb/
+* Poor man data lake : 
+	- https://dagster.io/blog/duckdb-data-lake
+	- https://www.youtube.com/watch?v=33sxkrt6eYk 
+* DuckDB UDF : https://duckdb.org/2023/07/07/python-udf.html
+* Dagster Data Lake + Jafffle shop: https://dagster.io/blog/duckdb-data-lake
+* Delta Live: 
+	- https://docs.databricks.com/en/delta-live-tables/index.html
+	- https://afroinfotech.medium.com/why-i-dislike-delta-live-tables-f9370cc58e77
+	
+* Delta lake:
+	- https://docs.delta.io/latest/index.html **DONE**
+	- https://docs.gcp.databricks.com/delta/index.html **DONE**
+	- https://books.japila.pl/delta-lake-internals/
+	- https://www.mage.ai/blog/how-to-build-a-data-pipeline-using-delta-lake
+	
+* Spark structured streaming: 
+	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
+	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
+	
+* Strem DBs: https://betterprogramming.pub/rethinking-stream-processing-and-streaming-databases-21076aaec375
+* Parallel Streaming : https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html
+* Modern Streaming: 
+	- https://docs.google.com/presentation/d/155BtY8tEjNbi11CxqEi4zSbiZORZLcEBGIAVznWQT5Q/edit?usp=drivesdk
+	- https://github.com/cescoffier/devoxx-greece-modern-data-streaming-demo
 
+* KSQLDB :
+	- https://developer.confluent.io/learn-kafka/inside-ksqldb/streaming-architecture/ **DONE**
+	- https://www.youtube.com/playlist?list=PLa7VYi0yPIH3ulxsOf5g43_QiB-HOg5_Y
 
 ## Low priority
 
@@ -45,6 +80,19 @@ Projects to do and articles to read
 
 
 ## Completed
+
+* TinyBird :
+	- https://www.tinybird.co/blog-posts/ksqldb-alternative
+	- https://www.jesse-anderson.com/2019/10/why-i-recommend-my-clients-not-use-ksql-and-kafka-streams/
+
+* Duckdb:
+	- https://blog.devgenius.io/duckdb-whats-the-quack-about-baca00e9f865
+	- https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/ 
+	- https://github.com/pdet/duckdb-tutorial
+	- https://www.analyticsvidhya.com/blog/2021/12/the-guide-to-data-analysis-with-duckdb/
+	- https://www.youtube.com/watch?v=PFUZlNQIndo
+	
+* DBT-DUCKDB:  https://medium.com/datamindedbe/use-dbt-and-duckdb-instead-of-spark-in-data-pipelines-9063a31ea2b5
 
 * JOM : 
 	- https://www.bojankomazec.com/2011/10/how-to-use-nmake-and-makefile.html
