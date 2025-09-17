@@ -30,7 +30,11 @@ Projects to do and articles to read
 
 * Flink SQL : https://www.confluent.io/blog/getting-started-with-apache-flink-sql/
 * Mike Shah D : https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV
-* MongoDB Change Streams : https://www.youtube.com/playlist?list=PLBY-MyA5JvKnT_xdCxRy_fu8A9q3h__oM
+* MongoDB + Data Modelling: 
+	- https://www.youtube.com/playlist?list=PLBY-MyA5JvKnT_xdCxRy_fu8A9q3h__oM
+	- https://www.mongodb.com/docs/kafka-connector/current/quick-start/ **DONE**
+	- https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%5D **DONE**
+	
 * Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
 
 ### Back Burner
