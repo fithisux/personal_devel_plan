@@ -55,7 +55,9 @@ Projects to do and articles to read
 	- https://developer.confluent.io/learn-kafka/inside-ksqldb/streaming-architecture/ **DONE**
 	- https://www.youtube.com/playlist?list=PLa7VYi0yPIH3ulxsOf5g43_QiB-HOg5_Y
 	
-* Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
+* Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2 **(up to 16 done)**
+
+* Spatial data-science with terra: https://rspatial.org/
 
 ### Back Burner
 
