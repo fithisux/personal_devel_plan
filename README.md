@@ -10,6 +10,7 @@ Projects to do and articles to read
 
 ### Back Burner
 
+* Scilab dub for D
 * Nurbs tutorial to Scilab
 * BOBJ to Julia: https://github.com/fh-wedel/bobj 
 * MCheck to Julia: https://github.com/Erlkoenig90/MCheck
@@ -18,7 +19,7 @@ Projects to do and articles to read
 * Spark streaming Medium article
 * Jom DMD / Medium article (whichever)
 * Port to Scala 3 : https://github.com/ldbc/ldbc_snb_datagen_spark
-* Shakila for KuzuDB and Neo4J: https://github.com/jOOQ/sakila
+* Shakila for KuzuDB and Neo4J: https://github.com/jOOQ/sakila (improve Gradle code for article)
 * LevelGraph On Go (through https://github.com/starskey-io/starskey or something else)
 * Redis streaming notebook
 
@@ -94,6 +95,10 @@ Projects to do and articles to read
 	- https://github.com/cescoffier/devoxx-greece-modern-data-streaming-demo
 
 ### Low priority
+
+* Learn Mill : https://mill-build.org/mill/index.html
+
+* Learn Declarative Gradle : https://declarative.gradle.org/
 
 * Flattening ASTs (and Other Compiler Data Structures):  https://www.cs.cornell.edu/~asampson/blog/flattening.html 
 
