@@ -60,7 +60,8 @@ Projects to do and articles to read
 * Spatial data-science with terra: https://rspatial.org/
 
 ### Back Burner
-
+* Wykobi tutorial: https://wykobi.com/tutorial.html
+* 
 * Dagger Tutorial : https://dagger.dev/tutorial/
 
 * Redis stream in action: https://itnext.io/redis-streams-in-action-part-4-serverless-monitoring-service-faef52ee58db
