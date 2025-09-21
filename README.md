@@ -61,6 +61,8 @@ Projects to do and articles to read
 
 ### Back Burner
 
+* Dagger Tutorial : https://dagger.dev/tutorial/
+
 * Redis stream in action: https://itnext.io/redis-streams-in-action-part-4-serverless-monitoring-service-faef52ee58db
 
 * DBT incremental : https://medium.com/@aaronbannin/dbt-incremental-cookbook-d70331ef879a
