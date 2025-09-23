@@ -22,7 +22,7 @@ Projects to do and articles to read
 * Shakila for KuzuDB and Neo4J: https://github.com/jOOQ/sakila (improve Gradle code for article)
 * LevelGraph On Go (through https://github.com/starskey-io/starskey or something else)
 * Redis streaming notebook
-
+* Tcl/Tk cosmopolitan
 
 ### Completed
 
@@ -57,7 +57,34 @@ Projects to do and articles to read
 	
 * Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
 
+* Codebuffer Patterns: https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K
+
+* Patterns:
+	- CQRS 1 : https://mbahardogan.medium.com/cqrs-pattern-with-spring-boot-and-axon-framework-9500e60b7d5f
+	- CQRS 2: https://medium.com/javarevisited/cqrs-pattern-in-microservices-bad7438cd6c
+	- Enterprise Integration Architecture Patterns : https://medium.com/analysts-corner/enterprise-integration-architecture-patterns-ab26b62c1c3a
+	- Saga 1 : https://learn.microsoft.com/en-us/azure/architecture/patterns/saga
+	- Saga 2 : https://blog.bytebytego.com/p/the-saga-pattern
+	- Inbox/Outbox: https://event-driven.io/en/outbox_inbox_patterns_and_delivery_guarantees_explained/
+	- Neo4j Outbox: https://blog.devgenius.io/building-a-knowledge-base-service-with-neo4j-kafka-and-the-outbox-pattern-9fffeaa284a6
+	- Outbox 1 - https://anthony-trad.medium.com/why-you-should-use-the-outbox-pattern-in-your-code-7d3073e6c2a4
+	- Outbox - https://anthony-trad.medium.com/why-you-should-use-the-outbox-pattern-in-your-code-7d3073e6c2a4  **DONE**
+	- Panousis Patterns Singleton ** DONE**
+	- Pipeline https://medium.com/@bonnotguillaume/software-architecture-the-pipeline-design-pattern-from-zero-to-hero-b5c43d8a4e60
+	- Comand Undo/Redo: https://www.youtube.com/watch?v=FM71_a3txTo
+	- Μediator : https://medium.com/@ahmedelsayed12/design-patterns-for-newbies-01-mediator-pattern-d12543787a31
+	
+
 ### Back Burner
+
+
+* Datavault 2.0 : https://www.youtube.com/playlist?list=PLPz42gh12w04u1VKr4R5Cwbg3EvD1aZdC
+
+* Scala 3 Book : https://docs.scala-lang.org/scala3/book/introduction.html
+
+* Realtime Engineering: https://www.tinybird.co/blog-posts/real-time-data-engineering-example-projects
+
+* Udemy Langchain: https://www.udemy.com/home/my-courses/learning/
 
 * Redis stream in action: https://itnext.io/redis-streams-in-action-part-4-serverless-monitoring-service-faef52ee58db
 
@@ -89,18 +116,40 @@ Projects to do and articles to read
 	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
 	
 * Strem DBs: https://betterprogramming.pub/rethinking-stream-processing-and-streaming-databases-21076aaec375
+
 * Parallel Streaming : https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html
+
 * Modern Streaming: 
 	- https://docs.google.com/presentation/d/155BtY8tEjNbi11CxqEi4zSbiZORZLcEBGIAVznWQT5Q/edit?usp=drivesdk
 	- https://github.com/cescoffier/devoxx-greece-modern-data-streaming-demo
+	
+* Log Aggregation: https://www.datadoghq.com/knowledge-center/log-aggregation/#:~:text=Log%20aggregation%20is%20the%20process,to%20facilitate%20streamlined%20log%20analysis.
+
+* Architectures:
+	- Agoda : https://medium.com/agoda-engineering/how-agoda-manages-1-8-trillion-events-per-day-on-kafka-1d6c3f4a7ad1
+	- Discord : https://www.linkedin.com/pulse/tech-stack-discord-faysal-ahmed/
+	- Meta 1 :  Arch: https://medium.com/@AnalyticsAtMeta/data-engineering-at-meta-high-level-overview-of-the-internal-tech-stack-a200460a44fe
+	- Meta 2: https://www.micahlerner.com/2023/02/27/metas-next-generation-realtime-monitoring-and-analytics-platform.htm
+	- Paypal : https://medium.com/@sahintalha1/the-way-psps-such-as-paypal-stripe-and-adyen-prevent-duplicate-payment-idempotency-keys-615845c185bf
+	- Netflix :  https://www.infoq.com/news/2023/02/netflix-annotations-cassandra/
+	
+* Debezium :
+	- Tutorial 1 : https://developers.redhat.com/blog/2020/05/08/change-data-capture-with-debezium-a-simple-how-to-part-1
+	- Tutorial 2 : https://medium.com/geekculture/change-data-capture-use-cases-and-real-world-example-using-debezium-fe4098579d49
+	- Tutorial 3 : : https://egkatzioura.com/2022/09/22/debezium-server-with-postgresql-and-redis-stream/
+	- tutorial 4 : : https://www.baeldung.com/debezium-intro **DONE**
 
 ### Low priority
+
+* Fast AI course : https://course.fast.ai/
+
+* Hypergraph DB : https://hypergraphdb.org/
 
 * Learn Mill : https://mill-build.org/mill/index.html
 
 * Learn Declarative Gradle : https://declarative.gradle.org/
 
-* Flattening ASTs (and Other Compiler Data Structures):  https://www.cs.cornell.edu/~asampson/blog/flattening.html 
+* Flattening ASTs (and Other Compiler Data Structures): https://www.cs.cornell.edu/~asampson/blog/flattening.html 
 
 * AWS Dynamo Data Modelling: https://www.youtube.com/watch?v=f43HZlWWGrg
 
@@ -117,6 +166,22 @@ Projects to do and articles to read
 	- https://www.tensorflow.org/tutorials/structured_data/time_series
 	- https://www.section.io/engineering-education/univariate-time-series-using-recurrent-neural-networks/
 	- https://towardsdatascience.com/temporal-loops-intro-to-recurrent-neural-networks-for-time-series-forecasting-in-python-b0398963dc1f
+	
+* CG 101 (What is topology in Computer Graphics) :  https://www.youtube.com/watch?v=VudCtEtNXbI&list=PLxVq-O_gWqkAMpVv85pTSab6uKGw6sQz5
+
+* Linear Logic : https://github.com/webyrd/linear-logic-multiset-rewriting
+
+* Linear model R : https://danielroelfs.com/blog/everything-is-a-linear-model/
+
+* Branchless binary search: https://news.ycombinator.com/item?id=35737862
+
+* Trading Arch: https://medium.com/prooftrading/proof-engineering-the-algorithmic-trading-platform-b9c2f195433d
+
+* R feature engineeering : https://learn.microsoft.com/en-us/archive/blogs/microsoftrservertigerteam/feature-engineering-using-r
+
+* Nameko : https://www.nameko.io/
+
+* Zig interfaces: https://www.openmymind.net/Zig-Interfaces/
 
 ### Completed
 
@@ -155,3 +220,5 @@ Projects to do and articles to read
 	- https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference?view=msvc-170
 	
 * Java SE Advanced Language Features : https://app.pluralsight.com/library/courses/java-se-17-advanced-language-features/table-of-contents
+
+* Hierarchical clustering: https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec
