@@ -23,7 +23,6 @@ Projects to do and articles to read
 * LevelGraph On Go (through https://github.com/starskey-io/starskey or something else)
 * Redis streaming notebook
 * Tcl/Tk cosmopolitan
-* Tcl/Tk cosmopolitan
 
 ### Completed
 
@@ -277,3 +276,6 @@ Projects to do and articles to read
 	- https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference?view=msvc-170
 	
 * Java SE Advanced Language Features : https://app.pluralsight.com/library/courses/java-se-17-advanced-language-features/table-of-contents
+
+
+* Hierarchical clustering: https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec
