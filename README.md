@@ -57,6 +57,8 @@ Projects to do and articles to read
 	
 * Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
 
+* Spatial data-science with terra: https://rspatial.org/
+
 * Codebuffer Patterns: https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K
 
 * Patterns:
@@ -76,7 +78,9 @@ Projects to do and articles to read
 	
 
 ### Back Burner
+* Wykobi tutorial: https://wykobi.com/tutorial.html
 
+* Dagger Tutorial : https://dagger.dev/tutorial/
 
 * Datavault 2.0 : https://www.youtube.com/playlist?list=PLPz42gh12w04u1VKr4R5Cwbg3EvD1aZdC
 
