@@ -39,11 +39,6 @@ Projects to do and articles to read
 * Flink SQL : https://www.confluent.io/blog/getting-started-with-apache-flink-sql/
 
 * Mike Shah D : https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV
-
-* MongoDB + Data Modelling: 
-	- https://www.youtube.com/playlist?list=PLBY-MyA5JvKnT_xdCxRy_fu8A9q3h__oM
-	- https://www.mongodb.com/docs/kafka-connector/current/quick-start/ **DONE**
-	- https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%5D **DONE**
 	
 * Delta lake:
 	- https://docs.delta.io/latest/index.html **DONE**
@@ -71,32 +66,11 @@ Projects to do and articles to read
 	- Neo4j Outbox: https://blog.devgenius.io/building-a-knowledge-base-service-with-neo4j-kafka-and-the-outbox-pattern-9fffeaa284a6
 	- Outbox 1 - https://anthony-trad.medium.com/why-you-should-use-the-outbox-pattern-in-your-code-7d3073e6c2a4
 	- Outbox - https://anthony-trad.medium.com/why-you-should-use-the-outbox-pattern-in-your-code-7d3073e6c2a4  **DONE**
-	- Panousis Patterns Singleton ** DONE**
+	- Panousis Patterns Singleton **DONE**
 	- Pipeline https://medium.com/@bonnotguillaume/software-architecture-the-pipeline-design-pattern-from-zero-to-hero-b5c43d8a4e60
 	- Comand Undo/Redo: https://www.youtube.com/watch?v=FM71_a3txTo
 	- Μediator : https://medium.com/@ahmedelsayed12/design-patterns-for-newbies-01-mediator-pattern-d12543787a31
-	
-
-* Spatial data-science with terra: https://rspatial.org/
-
-* Codebuffer Patterns: https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K
-
-* Patterns:
-	- CQRS 1 : https://mbahardogan.medium.com/cqrs-pattern-with-spring-boot-and-axon-framework-9500e60b7d5f
-	- CQRS 2: https://medium.com/javarevisited/cqrs-pattern-in-microservices-bad7438cd6c
-	- Enterprise Integration Architecture Patterns : https://medium.com/analysts-corner/enterprise-integration-architecture-patterns-ab26b62c1c3a
-	- Saga 1 : https://learn.microsoft.com/en-us/azure/architecture/patterns/saga
-	- Saga 2 : https://blog.bytebytego.com/p/the-saga-pattern
-	- Inbox/Outbox: https://event-driven.io/en/outbox_inbox_patterns_and_delivery_guarantees_explained/
-	- Neo4j Outbox: https://blog.devgenius.io/building-a-knowledge-base-service-with-neo4j-kafka-and-the-outbox-pattern-9fffeaa284a6
-	- Outbox 1 - https://anthony-trad.medium.com/why-you-should-use-the-outbox-pattern-in-your-code-7d3073e6c2a4
-	- Outbox - https://anthony-trad.medium.com/why-you-should-use-the-outbox-pattern-in-your-code-7d3073e6c2a4  **DONE**
-	- Panousis Patterns Singleton ** DONE**
-	- Pipeline https://medium.com/@bonnotguillaume/software-architecture-the-pipeline-design-pattern-from-zero-to-hero-b5c43d8a4e60
-	- Comand Undo/Redo: https://www.youtube.com/watch?v=FM71_a3txTo
-	- Μediator : https://medium.com/@ahmedelsayed12/design-patterns-for-newbies-01-mediator-pattern-d12543787a31
-	
-
+ - 
 ### Back Burner
 * Wykobi tutorial: https://wykobi.com/tutorial.html
 
@@ -277,5 +251,9 @@ Projects to do and articles to read
 	
 * Java SE Advanced Language Features : https://app.pluralsight.com/library/courses/java-se-17-advanced-language-features/table-of-contents
 
+* MongoDB + Data Modelling: 
+	- https://www.youtube.com/playlist?list=PLBY-MyA5JvKnT_xdCxRy_fu8A9q3h__oM **DONE**
+	- https://www.mongodb.com/docs/kafka-connector/current/quick-start/ **DONE**
+	- https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%5D **DONE**
 
 * Hierarchical clustering: https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec
