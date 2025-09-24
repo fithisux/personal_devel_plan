@@ -70,8 +70,55 @@ Projects to do and articles to read
 	- Pipeline https://medium.com/@bonnotguillaume/software-architecture-the-pipeline-design-pattern-from-zero-to-hero-b5c43d8a4e60
 	- Comand Undo/Redo: https://www.youtube.com/watch?v=FM71_a3txTo
 	- Μediator : https://medium.com/@ahmedelsayed12/design-patterns-for-newbies-01-mediator-pattern-d12543787a31
+	
+* CDC :
+	- https://levelup.gitconnected.com/applying-change-data-captured-and-slowly-changing-dimension-in-data-engineering-project-2d70ff865d99
+	- https://www.startdataengineering.com/post/change-data-capture-using-debezium-kafka-and-pg/ **DONE**
+	- https://redpanda.com/blog/redpanda-debezium
+	- https://debezium.io/documentation/
+	- https://github.com/debezium/debezium-examples/tree/main/outbox
+	
+* DE Landscape: https://airbyte.com/blog/data-engineering-landscape-2024
 
 ### Back Burner
+
+* Amigos Spring Boot (see others too): https://www.youtube.com/watch?v=9SGDpanrc8U
+
+* Daily Code Buffer Spring Boot (see others too) :  https://www.youtube.com/watch?v=c3gKseNAs9w
+
+* Pynest: 
+	- https://medium.com/@itay2803/stop-using-raw-fastapi-this-is-how-microservices-created-with-python-in-2024-a3ffbf57d103
+	- https://medium.com/p/9e2724e9f198
+	
+* Integrated Audits:
+	- https://www.tabular.io/blog/integrated-audits/ 
+	- https://www.tabular.io/blog/rest-catalog-docker/ 
+	- https://www.tabular.io/blog/docker-spark-and-iceberg-the-fastest-way-to-try-iceberg/ 
+
+* DLQ: https://www.kai-waehner.de/blog/2022/05/30/error-handling-via-dead-letter-queue-in-apache-kafka/
+
+* Kafka Python :
+	- https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05
+	- https://aiven.io/developer/create-your-own-data-stream-for-kafka-with-python-and-faker
+	- https://leftasexercise.com/2020/06/12/learning-kafka-with-python-consuming-data/
+	- https://www.toptal.com/microservices/event-driven-microservices-kafka-python
+
+* CDC Airbyte: https://airbyte.com/blog/change-data-capture-definition-methods-and-benefits
+
+* CDC Encapsulation: https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though
+
+* CDC DBLog: https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b
+
+* H3, uber real time service: 
+	- https://towardsdatascience.com/uber-h3-for-data-analysis-with-python-1e54acdcc908 
+	- https://www.uber.com/en-GR/blog/h3/
+	
+* Neo4J CDC: 
+	- https://faboo.org/2020/03/kafka-sync-neo4j/ https://www.youtube.com/watch?v=nVuGPePq8So 
+	- https://www.dotdash.ai/post/how-to-set-up-a-neo4j-sink-connector-in-kafka
+	- https://neo4j.com/docs/kafka/ 
+	- https://community.neo4j.com/t/neo4j-to-kafka-lo
+
 * Wykobi tutorial: https://wykobi.com/tutorial.html
 
 * Dagger Tutorial : https://dagger.dev/tutorial/
@@ -134,11 +181,21 @@ Projects to do and articles to read
 	- Tutorial 1 : https://developers.redhat.com/blog/2020/05/08/change-data-capture-with-debezium-a-simple-how-to-part-1
 	- Tutorial 2 : https://medium.com/geekculture/change-data-capture-use-cases-and-real-world-example-using-debezium-fe4098579d49
 	- Tutorial 3 : : https://egkatzioura.com/2022/09/22/debezium-server-with-postgresql-and-redis-stream/
-	- tutorial 4 : : https://www.baeldung.com/debezium-intro **DONE**
+	- Tutorial 4 : : https://www.baeldung.com/debezium-intro **DONE**
+
+* Kafka Connect 101: https://www.youtube.com/playlist?list=PLa7VYi0yPIH0uIC2F0M1_FsVUsx8j3ekm
+
+* Kafka Design + Compaction: https://docs.confluent.io/kafka/design/overview.html
+
+* Kafka Batch: https://docs.confluent.io/kafka/design/efficient-design.html
+
+* Kafka best practices: https://romanglushach.medium.com/how-to-design-and-implement-scalable-kafka-architecture-for-high-performance-streaming-applications-4c529132e795
 
 ### Low priority
 
 * Fast AI course : https://course.fast.ai/
+
+* Dive into deep learning: https://d2l.ai/index.html#
 
 * Hypergraph DB : https://hypergraphdb.org/
 
@@ -196,11 +253,31 @@ Projects to do and articles to read
 
 * Zig interfaces: https://www.openmymind.net/Zig-Interfaces/
 
+* Kafka Java:
+	-  https://developer.confluent.io/get-started/java/
+	-  https://www.baeldung.com/spring-kafka
+	-  https://micronaut-projects.github.io/micronaut-kafka/latest/guide/
+	
+* Kafka Schema:
+		-  https://medium.com/@ninucium/is-using-kafka-with-schema-registry-and-protobuf-worth-it-part-1-1c4a9995a5d3
+		-  https://stackoverflow.com/questions/57796950/how-to-enforce-schema-validation-in-kafka
+		
+* Kafka Pluralsight: https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents
+	
 ### Completed
+
+* Kafka : https://www.confluent.io/blog/apache-kafka-data-access-semantics-consumers-and-membership/?_ga=2.176797734.2099726332.1586806261-1473832639.1586806261
+
+* Kafka Schema Registry Pluralsight : https://app.pluralsight.com/library/courses/enforcing-data-contracts-kafka-schema-registry/exercise-files
+
+* Kafka Schema Registry Confluent :  https://developer.confluent.io/courses/schema-registry/key-concepts/
+
+* Kafka Event sourcing: https://www.youtube.com/playlist?list=PLa7VYi0yPIH1TXGUoSUqXgPMD2SQXEXxj
 
 * DBT Tuts : 
 	- https://docs.getdbt.com/docs/get-started/getting-started-dbt-core
 	- https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/
+	- https://micronaut-projects.github.io/micronaut-kafka/latest/guide/
 
 * Threadpools Java: https://www.baeldung.com/thread-pool-java-and-guava
 
