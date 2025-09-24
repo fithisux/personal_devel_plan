@@ -54,6 +54,9 @@ Projects to do and articles to read
 
 * Spatial data-science with terra: https://rspatial.org/
 
+* Spark structured streaming: 
+	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
+	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
 
 ### Back Burner
 
@@ -160,11 +163,7 @@ Projects to do and articles to read
 	- https://docs.databricks.com/en/delta-live-tables/index.html
 	- https://afroinfotech.medium.com/why-i-dislike-delta-live-tables-f9370cc58e77
 	
-* Spark structured streaming: 
-	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
-	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
-	
-* Strem DBs: https://betterprogramming.pub/rethinking-stream-processing-and-streaming-databases-21076aaec375
+* Stream DB: https://betterprogramming.pub/rethinking-stream-processing-and-streaming-databases-21076aaec375
 
 * Parallel Streaming : https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html
 
