@@ -54,6 +54,9 @@ Projects to do and articles to read
 
 * Spatial data-science with terra: https://rspatial.org/
 
+
+### Back Burner
+
 * Patterns:
 	- CQRS 1 : https://mbahardogan.medium.com/cqrs-pattern-with-spring-boot-and-axon-framework-9500e60b7d5f
 	- CQRS 2: https://medium.com/javarevisited/cqrs-pattern-in-microservices-bad7438cd6c
@@ -77,8 +80,6 @@ Projects to do and articles to read
 	- https://github.com/debezium/debezium-examples/tree/main/outbox
 	
 * DE Landscape: https://airbyte.com/blog/data-engineering-landscape-2024
-
-### Back Burner
 
 * Codebuffer Patterns: https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K
 
