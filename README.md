@@ -70,7 +70,7 @@ Projects to do and articles to read
 	- Pipeline https://medium.com/@bonnotguillaume/software-architecture-the-pipeline-design-pattern-from-zero-to-hero-b5c43d8a4e60
 	- Comand Undo/Redo: https://www.youtube.com/watch?v=FM71_a3txTo
 	- Μediator : https://medium.com/@ahmedelsayed12/design-patterns-for-newbies-01-mediator-pattern-d12543787a31
- - 
+
 ### Back Burner
 * Wykobi tutorial: https://wykobi.com/tutorial.html
 
@@ -108,7 +108,6 @@ Projects to do and articles to read
 	- https://docs.databricks.com/en/delta-live-tables/index.html
 	- https://afroinfotech.medium.com/why-i-dislike-delta-live-tables-f9370cc58e77
 	
-	
 * Spark structured streaming: 
 	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
 	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
@@ -120,22 +119,6 @@ Projects to do and articles to read
 * Modern Streaming: 
 	- https://docs.google.com/presentation/d/155BtY8tEjNbi11CxqEi4zSbiZORZLcEBGIAVznWQT5Q/edit?usp=drivesdk
 	- https://github.com/cescoffier/devoxx-greece-modern-data-streaming-demo
-	
-* Log Aggregation: https://www.datadoghq.com/knowledge-center/log-aggregation/#:~:text=Log%20aggregation%20is%20the%20process,to%20facilitate%20streamlined%20log%20analysis.
-
-* Architectures:
-	- Agoda : https://medium.com/agoda-engineering/how-agoda-manages-1-8-trillion-events-per-day-on-kafka-1d6c3f4a7ad1
-	- Discord : https://www.linkedin.com/pulse/tech-stack-discord-faysal-ahmed/
-	- Meta 1 :  Arch: https://medium.com/@AnalyticsAtMeta/data-engineering-at-meta-high-level-overview-of-the-internal-tech-stack-a200460a44fe
-	- Meta 2: https://www.micahlerner.com/2023/02/27/metas-next-generation-realtime-monitoring-and-analytics-platform.htm
-	- Paypal : https://medium.com/@sahintalha1/the-way-psps-such-as-paypal-stripe-and-adyen-prevent-duplicate-payment-idempotency-keys-615845c185bf
-	- Netflix :  https://www.infoq.com/news/2023/02/netflix-annotations-cassandra/
-	
-* Debezium :
-	- Tutorial 1 : https://developers.redhat.com/blog/2020/05/08/change-data-capture-with-debezium-a-simple-how-to-part-1
-	- Tutorial 2 : https://medium.com/geekculture/change-data-capture-use-cases-and-real-world-example-using-debezium-fe4098579d49
-	- Tutorial 3 : : https://egkatzioura.com/2022/09/22/debezium-server-with-postgresql-and-redis-stream/
-	- tutorial 4 : : https://www.baeldung.com/debezium-intro **DONE**
 	
 * Log Aggregation: https://www.datadoghq.com/knowledge-center/log-aggregation/#:~:text=Log%20aggregation%20is%20the%20process,to%20facilitate%20streamlined%20log%20analysis.
 
