@@ -34,12 +34,12 @@ Projects to do and articles to read
 
 ### In Flight
 
-* GeoTools tutorials: Tutorial -> https://docs.geotools.org/latest/userguide/
+* Flink 101 : https://www.youtube.com/playlist?list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0
+
+* Getting started with Apache Flink: https://www.youtube.com/playlist?list=PLa7VYi0yPIH2GTo3vRtX8w9tgNTTyYSux
 
 * Flink SQL : https://www.confluent.io/blog/getting-started-with-apache-flink-sql/
 
-* Mike Shah D : https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV
-	
 * Delta lake:
 	- https://docs.delta.io/latest/index.html **DONE**
 	- https://docs.gcp.databricks.com/delta/index.html **DONE**
@@ -53,8 +53,6 @@ Projects to do and articles to read
 * Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
 
 * Spatial data-science with terra: https://rspatial.org/
-
-* Codebuffer Patterns: https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K
 
 * Patterns:
 	- CQRS 1 : https://mbahardogan.medium.com/cqrs-pattern-with-spring-boot-and-axon-framework-9500e60b7d5f
@@ -81,6 +79,12 @@ Projects to do and articles to read
 * DE Landscape: https://airbyte.com/blog/data-engineering-landscape-2024
 
 ### Back Burner
+
+* Codebuffer Patterns: https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K
+
+* GeoTools tutorials: Tutorial -> https://docs.geotools.org/latest/userguide/
+
+* Mike Shah D : https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV
 
 * Amigos Spring Boot (see others too): https://www.youtube.com/watch?v=9SGDpanrc8U
 
