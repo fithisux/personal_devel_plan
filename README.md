@@ -30,7 +30,7 @@ Projects to do and articles to read
 * Bytewax streaming with Gkliatis : https://fithis2001.medium.com/porting-a-kstreams-demo-to-bytewax-a7de90e70e45	
 * My caching solution in Medium: https://medium.com/@fithis2001/ttl-caching-with-an-expiring-dict-e5a2711e080c
 * Airflow integration testing:
-* * Spark streaming Medium article
+* Spark streaming Medium article
 
 ## Important
 
