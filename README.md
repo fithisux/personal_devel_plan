@@ -6,7 +6,7 @@ Projects to do and articles to read
 
 ### In Flight
 
-* Digit Again Medium article
+* Spark streaming Medium article
 
 ### Back Burner
 
@@ -15,13 +15,14 @@ Projects to do and articles to read
 * BOBJ to Julia: https://github.com/fh-wedel/bobj 
 * MCheck to Julia: https://github.com/Erlkoenig90/MCheck
 * Model Check to Julia: https://github.com/jbretsch/modelcheck
+* Digit Again Medium article
 * Neo4J Medium article
-* Spark streaming Medium article
+* Flink Superset article
 * Jom DMD / Medium article (whichever)
 * Port to Scala 3 : https://github.com/ldbc/ldbc_snb_datagen_spark
 * Shakila for KuzuDB and Neo4J: https://github.com/jOOQ/sakila (improve Gradle code for article)
 * LevelGraph On Go (through https://github.com/starskey-io/starskey or something else)
-* Redis streaming notebook
+* Redis Streaming notebook / Medium article
 * Tcl/Tk cosmopolitan
 
 ### Completed
