@@ -6,7 +6,10 @@ Projects to do and articles to read
 
 ### In Flight
 
-* Spark streaming Medium article
+* Digit Again Medium article
+* Neo4J Medium article
+* Flink Superset article
+
 
 ### Back Burner
 
@@ -15,9 +18,6 @@ Projects to do and articles to read
 * BOBJ to Julia: https://github.com/fh-wedel/bobj 
 * MCheck to Julia: https://github.com/Erlkoenig90/MCheck
 * Model Check to Julia: https://github.com/jbretsch/modelcheck
-* Digit Again Medium article
-* Neo4J Medium article
-* Flink Superset article
 * Jom DMD / Medium article (whichever)
 * Port to Scala 3 : https://github.com/ldbc/ldbc_snb_datagen_spark
 * Shakila for KuzuDB and Neo4J: https://github.com/jOOQ/sakila (improve Gradle code for article)
@@ -30,6 +30,7 @@ Projects to do and articles to read
 * Bytewax streaming with Gkliatis : https://fithis2001.medium.com/porting-a-kstreams-demo-to-bytewax-a7de90e70e45	
 * My caching solution in Medium: https://medium.com/@fithis2001/ttl-caching-with-an-expiring-dict-e5a2711e080c
 * Airflow integration testing:
+* * Spark streaming Medium article
 
 ## Important
 
