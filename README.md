@@ -55,9 +55,7 @@ Projects to do and articles to read
 
 * Spatial data-science with terra: https://rspatial.org/
 
-* Spark structured streaming: 
-	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
-	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
+* Biil Sky the Assembly Guy: https://www.youtube.com/playlist?list=PLdG1SnrYXH0GDtlL_uiVFnVM8fvWeAQya
 
 ### Back Burner
 
@@ -270,6 +268,10 @@ Projects to do and articles to read
 * Kafka Pluralsight: https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents
 	
 ### Completed
+
+* Spark structured streaming: 
+	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
+	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
 
 * Kafka : https://www.confluent.io/blog/apache-kafka-data-access-semantics-consumers-and-membership/?_ga=2.176797734.2099726332.1586806261-1473832639.1586806261
 
