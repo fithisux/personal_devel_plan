@@ -36,8 +36,6 @@ Projects to do and articles to read
 
 ### In Flight
 
-* Flink 101 : https://www.youtube.com/playlist?list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0
-
 * Getting started with Apache Flink: https://www.youtube.com/playlist?list=PLa7VYi0yPIH2GTo3vRtX8w9tgNTTyYSux
 
 * Flink SQL : https://www.confluent.io/blog/getting-started-with-apache-flink-sql/
@@ -271,7 +269,8 @@ Projects to do and articles to read
 * Kafka Pluralsight: https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents
 	
 ### Completed
-
+* Flink 101 : https://www.youtube.com/playlist?list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0
+* 
 * Spark structured streaming: 
 	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
 	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
