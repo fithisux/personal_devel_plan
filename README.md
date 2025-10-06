@@ -55,7 +55,7 @@ Projects to do and articles to read
 * Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
 
 * Spatial data-science with terra: https://rspatial.org/
-* 
+  
 * Pymc tutorial: https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/pymc_overview.html
 
 * Biil Sky the Assembly Guy: https://www.youtube.com/playlist?list=PLdG1SnrYXH0GDtlL_uiVFnVM8fvWeAQya
