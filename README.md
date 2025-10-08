@@ -36,6 +36,8 @@ Projects to do and articles to read
 
 ### In Flight
 
+* Apache Pinot 101: https://www.youtube.com/playlist?list=PLihIrF0tCXdfN6y-twj9KtWaXM1GH4RSe
+  
 * Getting started with Apache Flink: https://www.youtube.com/playlist?list=PLa7VYi0yPIH2GTo3vRtX8w9tgNTTyYSux
 
 * Flink SQL : https://www.confluent.io/blog/getting-started-with-apache-flink-sql/
