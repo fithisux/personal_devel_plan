@@ -62,6 +62,14 @@ Projects to do and articles to read
 
 ### Back Burner
 
+* Spatial Data Structures:
+  	- HNSW: https://zilliz.com/learn/hierarchical-navigable-small-worlds-HNSW
+  	- Jupyter + Vector DB: https://zilliz.com/blog/exploring-magic-vector-databases-jupyter-notebooks
+  	- Nearest Neighbor Indexes for Similarity Search : https://www.pinecone.io/learn/series/faiss/vector-indexes/
+  	- A Gentle Introduction to Vector Databases : https://frankzliu.com/blog/a-gentle-introduction-to-vector-databases
+  	- SCANN: https://research.google/blog/announcing-scann-efficient-vector-similarity-search/
+  	- VS from scratch: https://machinelearningmastery.com/implementing-vector-search-from-scratch-a-step-by-step-tutorial/
+
 * Patterns:
 	- CQRS 1 : https://mbahardogan.medium.com/cqrs-pattern-with-spring-boot-and-axon-framework-9500e60b7d5f
 	- CQRS 2: https://medium.com/javarevisited/cqrs-pattern-in-microservices-bad7438cd6c
@@ -200,6 +208,8 @@ Projects to do and articles to read
 * Data platform : https://towardsdatascience.com/building-a-data-platform-in-2024-d63c736cccef/
 
 ### Low priority
+
+* Geoffrey Hinton’s Forward-Forward Algorithm : https://medium.com/syncedreview/geoffrey-hintons-forward-forward-algorithm-charts-a-new-path-for-neural-networks-a02a3f9645a4
 
 * Fast AI course : https://course.fast.ai/
 
