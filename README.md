@@ -197,6 +197,8 @@ Projects to do and articles to read
 
 * Kafka best practices: https://romanglushach.medium.com/how-to-design-and-implement-scalable-kafka-architecture-for-high-performance-streaming-applications-4c529132e795
 
+* Data platform : https://towardsdatascience.com/building-a-data-platform-in-2024-d63c736cccef/
+
 ### Low priority
 
 * Fast AI course : https://course.fast.ai/
