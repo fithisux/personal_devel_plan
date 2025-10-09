@@ -62,6 +62,16 @@ Projects to do and articles to read
 
 ### Back Burner
 
+* How rocksdb works: https://news.ycombinator.com/item?id=35634673
+
+* LSM in a week :https://skyzh.github.io/mini-lsm/00-preface.html
+
+* Relational DB from scratch in GO: https://build-your-own.org/database/
+
+* Attention from scratch: https://machinelearningmastery.com/the-attention-mechanism-from-scratch/
+
+* DL from scratch: https://towardsdatascience.com/temporal-loops-intro-to-recurrent-neural-networks-for-time-series-forecasting-in-python-b0398963dc1f
+  
 * Spatial Data Structures:
   	- HNSW: https://zilliz.com/learn/hierarchical-navigable-small-worlds-HNSW
   	- Jupyter + Vector DB: https://zilliz.com/blog/exploring-magic-vector-databases-jupyter-notebooks
@@ -208,6 +218,17 @@ Projects to do and articles to read
 * Data platform : https://towardsdatascience.com/building-a-data-platform-in-2024-d63c736cccef/
 
 ### Low priority
+
+* Analytics:
+  	- https://cybersecdatasci.cs.unipi.gr/about-the-masters/business-data-analytics-bda/
+  	- https://www.investopedia.com/terms/d/data-analytics.asp
+  	- https://careerfoundry.com/en/blog/data-analytics/what-is-data-analytics/
+ 
+* KubeFlow: https://towardsdatascience.com/tutorial-basic-kubeflow-pipeline-from-scratch-5f0350dc1905
+  
+* Dickey Fuller analysis
+  	- https://analyticsindiamag.com/complete-guide-to-dickey-fuller-test-in-time-series-analysis/
+  	- https://medium.com/@ritusantra/tests-for-stationarity-in-time-series-dickey-fuller-test-augmented-dickey-fuller-adf-test-d2e92e214360
 
 * Geoffrey Hinton’s Forward-Forward Algorithm : https://medium.com/syncedreview/geoffrey-hintons-forward-forward-algorithm-charts-a-new-path-for-neural-networks-a02a3f9645a4
 
