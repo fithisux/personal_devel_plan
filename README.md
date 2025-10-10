@@ -44,6 +44,8 @@ Projects to do and articles to read
 
 * Flink SQL : https://www.confluent.io/blog/getting-started-with-apache-flink-sql/
 
+* cmake tutorial : https://www.youtube.com/playlist?list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4
+  
 * Delta lake:
 	- https://docs.delta.io/latest/index.html **DONE**
 	- https://docs.gcp.databricks.com/delta/index.html **DONE**
