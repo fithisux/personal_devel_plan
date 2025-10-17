@@ -64,6 +64,8 @@ Projects to do and articles to read
 
 * Biil Sky the Assembly Guy: https://www.youtube.com/playlist?list=PLdG1SnrYXH0GDtlL_uiVFnVM8fvWeAQya
 
+* Python properties: https://realpython.com/python-property/
+
 ### Back Burner
 
 * How rocksdb works: https://news.ycombinator.com/item?id=35634673
