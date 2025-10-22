@@ -68,6 +68,8 @@ Projects to do and articles to read
 
 ### Back Burner
 
+* Dolt (git for data): https://github.com/dolthub/dolt
+  
 * How rocksdb works: https://news.ycombinator.com/item?id=35634673
 
 * LSM in a week :https://skyzh.github.io/mini-lsm/00-preface.html
