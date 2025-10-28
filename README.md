@@ -55,8 +55,6 @@ Projects to do and articles to read
 * KSQLDB :
 	- https://developer.confluent.io/learn-kafka/inside-ksqldb/streaming-architecture/ **DONE**
 	- https://www.youtube.com/playlist?list=PLa7VYi0yPIH3ulxsOf5g43_QiB-HOg5_Y
-	
-* Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
 
 * Spatial data-science with terra: https://rspatial.org/
   
@@ -313,7 +311,9 @@ Projects to do and articles to read
 	
 ### Completed
 * Flink 101 : https://www.youtube.com/playlist?list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0
-* 
+
+* Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
+
 * Spark structured streaming: 
 	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
 	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
