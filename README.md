@@ -229,6 +229,8 @@ Projects to do and articles to read
 
 ### Low priority
 
+* Raku Grammars : https://docs.raku.org/language/grammars
+
 * Analytics:
   	- https://cybersecdatasci.cs.unipi.gr/about-the-masters/business-data-analytics-bda/
   	- https://www.investopedia.com/terms/d/data-analytics.asp
