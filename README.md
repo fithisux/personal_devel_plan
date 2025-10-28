@@ -66,6 +66,10 @@ Projects to do and articles to read
 
 ### Back Burner
 
+* Hardware data structures : https://www.linkedin.com/pulse/beyond-hardware-data-structures-drive-gpu-performance-feng-zhang-7i3dc/
+
+* Debasish suggestions : https://x.com/debasishg/status/1982861756453294477
+
 * Dolt (git for data): https://github.com/dolthub/dolt
   
 * How rocksdb works: https://news.ycombinator.com/item?id=35634673
