@@ -12,7 +12,9 @@ Projects to do and articles to read
 
 
 ### Back Burner
-
+* Disaster Recovery Article:
+  	- https://iceberg.apache.org/spark-quickstart/
+  	- https://www.dremio.com/blog/disaster-recovery-for-apache-iceberg-tables-restoring-from-backup-and-getting-back-online/
 * Scilab dub for D
 * Nurbs tutorial to Scilab
 * BOBJ to Julia: https://github.com/fh-wedel/bobj 
