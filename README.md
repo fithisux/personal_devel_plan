@@ -16,7 +16,7 @@ Projects to do and articles to read
   	- https://iceberg.apache.org/spark-quickstart/
   	- https://www.dremio.com/blog/disaster-recovery-for-apache-iceberg-tables-restoring-from-backup-and-getting-back-online/
 * Scilab dub for D
-* Nurbs tutorial to Scilab
+* Nurbs tutorial to Scilab   https://www.codeproject.com/articles/Generate-and-understand-NURBS-curves#comments-section
 * BOBJ to Julia: https://github.com/fh-wedel/bobj 
 * MCheck to Julia: https://github.com/Erlkoenig90/MCheck
 * Model Check to Julia: https://github.com/jbretsch/modelcheck
