@@ -38,6 +38,8 @@ Projects to do and articles to read
 
 ### In Flight
 
+* Andrew NG Knowledge Graphs: https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/mltr8/introduction
+
 * Apache Pinot :
   	- https://www.youtube.com/playlist?list=PLihIrF0tCXdfN6y-twj9KtWaXM1GH4RSe **DONE**
   	- https://www.youtube.com/playlist?list=PLihIrF0tCXdckH2BSA1D8l-QPGfVXEuFV
