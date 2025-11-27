@@ -38,8 +38,6 @@ Projects to do and articles to read
 
 ### In Flight
 
-* Andrew NG Knowledge Graphs: https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/mltr8/introduction
-
 * Apache Pinot :
   	- https://www.youtube.com/playlist?list=PLihIrF0tCXdfN6y-twj9KtWaXM1GH4RSe **DONE**
   	- https://www.youtube.com/playlist?list=PLihIrF0tCXdckH2BSA1D8l-QPGfVXEuFV
@@ -320,6 +318,9 @@ Projects to do and articles to read
 * Kafka Pluralsight: https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents
 	
 ### Completed
+
+* Andrew NG Knowledge Graphs: https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/mltr8/introduction **DONE**
+  
 * Flink 101 : https://www.youtube.com/playlist?list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0
 
 * Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
