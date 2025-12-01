@@ -38,6 +38,8 @@ Projects to do and articles to read
 
 ### In Flight
 
+* Typesense Video : https://www.youtube.com/watch?v=F4mB0x_B1AE
+
 * Apache Pinot :
   	- https://www.youtube.com/playlist?list=PLihIrF0tCXdfN6y-twj9KtWaXM1GH4RSe **DONE**
   	- https://www.youtube.com/playlist?list=PLihIrF0tCXdckH2BSA1D8l-QPGfVXEuFV
