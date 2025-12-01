@@ -38,7 +38,10 @@ Projects to do and articles to read
 
 ### In Flight
 
-* Typesense Video : https://www.youtube.com/watch?v=F4mB0x_B1AE
+* Typesense :
+  - Haystack LIVE! Introducing Typesense, an open source alternative to Algolia & ElasticSearch : https://www.youtube.com/watch?v=F4mB0x_B1AE
+  - Exploring Typesense, a lightning-fast, open source search engine: https://www.youtube.com/watch?v=kwtHOkf7Jdg
+  - Typesense Review - 2025 | Built an Intelligent Movie Search Engine Powered by Open Source Search : https://www.youtube.com/watch?v=4jAgoRcVJls
 
 * Apache Pinot :
   	- https://www.youtube.com/playlist?list=PLihIrF0tCXdfN6y-twj9KtWaXM1GH4RSe **DONE**
