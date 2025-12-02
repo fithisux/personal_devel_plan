@@ -236,9 +236,76 @@ Projects to do and articles to read
 * Kafka best practices: https://romanglushach.medium.com/how-to-design-and-implement-scalable-kafka-architecture-for-high-performance-streaming-applications-4c529132e795
 
 * Data platform : https://towardsdatascience.com/building-a-data-platform-in-2024-d63c736cccef/
+	
+### Completed
+* Typesense : Introducing Typesense, an open source alternative to Algolia & ElasticSearch : https://www.youtube.com/watch?v=F4mB0x_B1AE **DONE**
+  
+* Andrew NG Knowledge Graphs: https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/mltr8/introduction **DONE**
+  
+* Flink 101 : https://www.youtube.com/playlist?list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0
+
+* Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
+
+* Spark structured streaming: 
+	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
+	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
+
+* Kafka : https://www.confluent.io/blog/apache-kafka-data-access-semantics-consumers-and-membership/?_ga=2.176797734.2099726332.1586806261-1473832639.1586806261
+
+* Kafka Schema Registry Pluralsight : https://app.pluralsight.com/library/courses/enforcing-data-contracts-kafka-schema-registry/exercise-files
+
+* Kafka Schema Registry Confluent :  https://developer.confluent.io/courses/schema-registry/key-concepts/
+
+* Kafka Event sourcing: https://www.youtube.com/playlist?list=PLa7VYi0yPIH1TXGUoSUqXgPMD2SQXEXxj
+
+* DBT Tuts : 
+	- https://docs.getdbt.com/docs/get-started/getting-started-dbt-core
+	- https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/
+	- https://micronaut-projects.github.io/micronaut-kafka/latest/guide/
+
+* Threadpools Java: https://www.baeldung.com/thread-pool-java-and-guava
+
+* Asset bundles: https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/
+
+* Event Modeling: https://developer.confluent.io/courses/event-modeling/intro/
+
+* Data Modeling : 
+	- https://www.youtube.com/watch?v=ltQgbSs99WU
+	- https://www.simplilearn.com/what-is-data-modeling-article
+
+* TinyBird :
+	- https://www.tinybird.co/blog-posts/ksqldb-alternative
+	- https://www.jesse-anderson.com/2019/10/why-i-recommend-my-clients-not-use-ksql-and-kafka-streams/
+	- https://www.tinybird.co/blog-posts/when-to-use-columnar-database
+
+* Duckdb:
+	- https://blog.devgenius.io/duckdb-whats-the-quack-about-baca00e9f865
+	- https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/ 
+	- https://github.com/pdet/duckdb-tutorial
+	- https://www.analyticsvidhya.com/blog/2021/12/the-guide-to-data-analysis-with-duckdb/
+	- https://www.youtube.com/watch?v=PFUZlNQIndo
+	
+* DBT-DUCKDB:  
+	 - https://medium.com/datamindedbe/use-dbt-and-duckdb-instead-of-spark-in-data-pipelines-9063a31ea2b5
+	 - https://docs.getdbt.com/blog/kimball-dimensional-model?utm_content=246393093&utm_medium=social&utm_source=linkedin&hss_channel=lcp-10893210
+
+* JOM : 
+	- https://www.bojankomazec.com/2011/10/how-to-use-nmake-and-makefile.html
+	- https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference?view=msvc-170
+	
+* Java SE Advanced Language Features : https://app.pluralsight.com/library/courses/java-se-17-advanced-language-features/table-of-contents
+
+* MongoDB + Data Modelling: 
+	- https://www.youtube.com/playlist?list=PLBY-MyA5JvKnT_xdCxRy_fu8A9q3h__oM **DONE**
+	- https://www.mongodb.com/docs/kafka-connector/current/quick-start/ **DONE**
+	- https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%5D **DONE**
+
+* Hierarchical clustering: https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec
 
 ### Low priority
 
+* Shapley Values : https://medium.com/mlearning-ai/differences-between-sobol-and-shap-sensitivity-analysis-on-housing-prices-predictions-b3f3104ed7e1
+  
 * Raku Grammars : https://docs.raku.org/language/grammars
 
 * Analytics:
@@ -324,68 +391,14 @@ Projects to do and articles to read
 		-  https://stackoverflow.com/questions/57796950/how-to-enforce-schema-validation-in-kafka
 		
 * Kafka Pluralsight: https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents
-	
-### Completed
-* Typesense : Introducing Typesense, an open source alternative to Algolia & ElasticSearch : https://www.youtube.com/watch?v=F4mB0x_B1AE **DONE**
-  
-* Andrew NG Knowledge Graphs: https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/mltr8/introduction **DONE**
-  
-* Flink 101 : https://www.youtube.com/playlist?list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0
 
-* Helix Editor Tutorial : https://www.youtube.com/playlist?list=PL4AR7tbGuBH5AzV0tPpTfYgGIF5vk3HN2
-
-* Spark structured streaming: 
-	- https://medium.com/trigger-ai/continuously-ingest-and-load-csv-files-into-delta-using-spark-structure-streaming-ce5faaadd1e7
-	- https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
-
-* Kafka : https://www.confluent.io/blog/apache-kafka-data-access-semantics-consumers-and-membership/?_ga=2.176797734.2099726332.1586806261-1473832639.1586806261
-
-* Kafka Schema Registry Pluralsight : https://app.pluralsight.com/library/courses/enforcing-data-contracts-kafka-schema-registry/exercise-files
-
-* Kafka Schema Registry Confluent :  https://developer.confluent.io/courses/schema-registry/key-concepts/
-
-* Kafka Event sourcing: https://www.youtube.com/playlist?list=PLa7VYi0yPIH1TXGUoSUqXgPMD2SQXEXxj
-
-* DBT Tuts : 
-	- https://docs.getdbt.com/docs/get-started/getting-started-dbt-core
-	- https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/
-	- https://micronaut-projects.github.io/micronaut-kafka/latest/guide/
-
-* Threadpools Java: https://www.baeldung.com/thread-pool-java-and-guava
-
-* Asset bundles: https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/
-
-* Event Modeling: https://developer.confluent.io/courses/event-modeling/intro/
-
-* Data Modeling : 
-	- https://www.youtube.com/watch?v=ltQgbSs99WU
-	- https://www.simplilearn.com/what-is-data-modeling-article
-
-* TinyBird :
-	- https://www.tinybird.co/blog-posts/ksqldb-alternative
-	- https://www.jesse-anderson.com/2019/10/why-i-recommend-my-clients-not-use-ksql-and-kafka-streams/
-	- https://www.tinybird.co/blog-posts/when-to-use-columnar-database
-
-* Duckdb:
-	- https://blog.devgenius.io/duckdb-whats-the-quack-about-baca00e9f865
-	- https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/ 
-	- https://github.com/pdet/duckdb-tutorial
-	- https://www.analyticsvidhya.com/blog/2021/12/the-guide-to-data-analysis-with-duckdb/
-	- https://www.youtube.com/watch?v=PFUZlNQIndo
-	
-* DBT-DUCKDB:  
-	 - https://medium.com/datamindedbe/use-dbt-and-duckdb-instead-of-spark-in-data-pipelines-9063a31ea2b5
-	 - https://docs.getdbt.com/blog/kimball-dimensional-model?utm_content=246393093&utm_medium=social&utm_source=linkedin&hss_channel=lcp-10893210
-
-* JOM : 
-	- https://www.bojankomazec.com/2011/10/how-to-use-nmake-and-makefile.html
-	- https://learn.microsoft.com/en-us/cpp/build/reference/nmake-reference?view=msvc-170
-	
-* Java SE Advanced Language Features : https://app.pluralsight.com/library/courses/java-se-17-advanced-language-features/table-of-contents
-
-* MongoDB + Data Modelling: 
-	- https://www.youtube.com/playlist?list=PLBY-MyA5JvKnT_xdCxRy_fu8A9q3h__oM **DONE**
-	- https://www.mongodb.com/docs/kafka-connector/current/quick-start/ **DONE**
-	- https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%5D **DONE**
-
-* Hierarchical clustering: https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec
+* Feature interactions:
+  	- https://towardsdatascience.com/feature-interactions-524815abec81
+  	- https://bookdown.org/max/FES/detecting-interaction-effects.html
+  	- https://christophm.github.io/interpretable-ml-book/interaction.html
+ 
+* WAL:
+  - https://medium.com/@hnasr/what-is-wal-write-ahead-log-a-deep-dive-a2bc4dc91170
+  - https://medium.com/@abhi18632/understanding-write-ahead-logs-in-distributed-systems-3b36892fa3ba
+  - https://kousiknath.medium.com/how-mvcc-databases-work-internally-84a27a380283
+  - https://levelup.gitconnected.com/a-deep-dive-into-postgresql-visibility-management-18c2fd6746e4
