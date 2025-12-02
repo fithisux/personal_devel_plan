@@ -77,6 +77,10 @@ Projects to do and articles to read
 * Biil Sky the Assembly Guy: https://www.youtube.com/playlist?list=PLdG1SnrYXH0GDtlL_uiVFnVM8fvWeAQya
 
 * Python properties: https://realpython.com/python-property/
+  
+* Dspy:
+  	- https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9
+  	- https://github.com/stanfordnlp/dspy
 
 ### Back Burner
 
@@ -402,3 +406,8 @@ Projects to do and articles to read
   - https://medium.com/@abhi18632/understanding-write-ahead-logs-in-distributed-systems-3b36892fa3ba
   - https://kousiknath.medium.com/how-mvcc-databases-work-internally-84a27a380283
   - https://levelup.gitconnected.com/a-deep-dive-into-postgresql-visibility-management-18c2fd6746e4
+ 
+* BERT :
+  	- https://medium.com/@samia.khalid/bert-explained-a-complete-guide-with-theory-and-tutorial-3ac9ebc8fa7c
+  	- https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreak
+  	- https://www.tensorflow.org/text/tutorials/classify_text_with_bert
