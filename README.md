@@ -254,8 +254,31 @@ Projects to do and articles to read
 * Kafka best practices: https://romanglushach.medium.com/how-to-design-and-implement-scalable-kafka-architecture-for-high-performance-streaming-applications-4c529132e795
 
 * Data platform : https://towardsdatascience.com/building-a-data-platform-in-2024-d63c736cccef/
+  
+* Hands on transformers: https://www.youtube.com/watch?v=scJsty_DR3o,https://www.tensorflow.org/text/tutorials/transformer
+
+* Inferencing transformer: https://machinelearningmastery.com/inferencing-the-transformer-model/
+
+* Transformers explained: https://daleonai.com/transformers-explained
+
+* Positional Encding:
+  - https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/
+  - https://numb3r33.github.io/experiments/llm/transformers/math/deeplearning/2025/02/22/transformers-positional-encoding.html
+
+* Transformers rigorous: https://www.deepmind.com/publications/formal-algorithms-for-transformers
+
+* GPT4 Pipelines: https://medium.com/@nschairer/gpt-4-data-pipelines-transform-json-to-sql-schema-instantly-dfd62f6d1024
+
+* Tranformers:
+  	- https://www.tensorflow.org/text/tutorials/transformer
+  	- https://thegradient.pub/transformers-are-graph-neural-networks/
+  	- https://www.analyticsvidhya.com/blog/2021/09/a-deep-dive-into-transformers-library/
+  	- https://carpentries-incubator.github.io/python-text-analysis/07-transformers/index.html
 	
 ### Completed
+
+* Data cleaning: https://towardsdatascience.com/custom-transformers-in-python-part-ii-6fe111fc82e4
+  
 * Typesense : Introducing Typesense, an open source alternative to Algolia & ElasticSearch : https://www.youtube.com/watch?v=F4mB0x_B1AE **DONE**
   
 * Andrew NG Knowledge Graphs: https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/mltr8/introduction **DONE**
