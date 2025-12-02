@@ -38,10 +38,15 @@ Projects to do and articles to read
 
 ### In Flight
 
-* Typesense :
-  - Haystack LIVE! Introducing Typesense, an open source alternative to Algolia & ElasticSearch : https://www.youtube.com/watch?v=F4mB0x_B1AE
-  - Exploring Typesense, a lightning-fast, open source search engine: https://www.youtube.com/watch?v=kwtHOkf7Jdg
-  - Typesense Review - 2025 | Built an Intelligent Movie Search Engine Powered by Open Source Search : https://www.youtube.com/watch?v=4jAgoRcVJls
+* Udemy Langchain: https://www.udemy.com/home/my-courses/learning/
+  
+* Hugging Face courses:
+  	- Deep RL : https://huggingface.co/learn/deep-rl-course/unit0/introduction
+  	- Agents : https://huggingface.co/learn/agents-course/unit0/introduction
+  	- MCP: https://huggingface.co/learn/mcp-course/unit0/introduction
+  	- LLM : https://huggingface.co/learn/llm-course/chapter1/1
+  	- Cookbook: https://huggingface.co/learn/cookbook/index
+  	- Diffusion: https://huggingface.co/learn/diffusion-course/unit0/1
 
 * Apache Pinot :
   	- https://www.youtube.com/playlist?list=PLihIrF0tCXdfN6y-twj9KtWaXM1GH4RSe **DONE**
@@ -173,8 +178,6 @@ Projects to do and articles to read
 * Scala 3 Book : https://docs.scala-lang.org/scala3/book/introduction.html
 
 * Realtime Engineering: https://www.tinybird.co/blog-posts/real-time-data-engineering-example-projects
-
-* Udemy Langchain: https://www.udemy.com/home/my-courses/learning/
 
 * Redis stream in action: https://itnext.io/redis-streams-in-action-part-4-serverless-monitoring-service-faef52ee58db
 
@@ -323,7 +326,8 @@ Projects to do and articles to read
 * Kafka Pluralsight: https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents
 	
 ### Completed
-
+* Typesense : Introducing Typesense, an open source alternative to Algolia & ElasticSearch : https://www.youtube.com/watch?v=F4mB0x_B1AE **DONE**
+  
 * Andrew NG Knowledge Graphs: https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/mltr8/introduction **DONE**
   
 * Flink 101 : https://www.youtube.com/playlist?list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0
