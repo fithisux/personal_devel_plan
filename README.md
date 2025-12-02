@@ -448,3 +448,12 @@ Projects to do and articles to read
   	- https://medium.com/@samia.khalid/bert-explained-a-complete-guide-with-theory-and-tutorial-3ac9ebc8fa7c
   	- https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreak
   	- https://www.tensorflow.org/text/tutorials/classify_text_with_bert
+ 
+* Rust Data Engineer:
+  - https://levelup.gitconnected.com/introduction-to-apache-arrow-with-rust-394f391ea455
+  - https://towardsdatascience.com/data-processing-in-rust-with-datafusion-arrow-56df5432de68
+  - https://medium.com/@MatthieuL49/data-processing-with-rust-and-apache
+ 
+* Webapp Rust: https://kerkour.com/web-application-with-rust-and-webassembly
+
+* Datalog introduction: https://blogit.michelin.io/an-introduction-to-datalog/
