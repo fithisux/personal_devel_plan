@@ -76,13 +76,27 @@ Projects to do and articles to read
 
 * Biil Sky the Assembly Guy: https://www.youtube.com/playlist?list=PLdG1SnrYXH0GDtlL_uiVFnVM8fvWeAQya
 
+
+### Back Burner
+
+* Chatbot:
+  	- https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626
+  	- https://github.com/bytewax/stateful-chat
+	- https://neo4j.com/blog/this-week-in-neo4j-chatgpt-chatbot-nasa-generative-ai-apache-age-cypher-and-more/
+	- https://medium.datadriveninvestor.com/build-your-own-chatbot-using-chatgpt-for-inspiration-2a2ae6ebb288
+	- https://betterprogramming.pub/how-to-build-your-own-custom-chatgpt-with-custom-knowledge-base-4e61ad82427e
+
 * Python properties: https://realpython.com/python-property/
   
 * Dspy:
   	- https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9
   	- https://github.com/stanfordnlp/dspy
 
-### Back Burner
+* Knowledge Graph:
+  	- https://neo4j.com/developer-blog/knowledge-graph-devops-rag-application/
+  	- https://www.youtube.com/watch?v=nYQLp7itZx8
+  	- https://medium.com/geekculture/how-to-build-a-bayesian-knowledge-graph-dee1cc821d35
+  	- https://www.youtube.com/watch?v=nYQLp7itZx8
 
 * Hardware data structures : https://www.linkedin.com/pulse/beyond-hardware-data-structures-drive-gpu-performance-feng-zhang-7i3dc/
 
