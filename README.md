@@ -38,6 +38,8 @@ Projects to do and articles to read
 
 ### In Flight
 
+* GeoTools tutorials: Tutorial -> https://docs.geotools.org/latest/userguide/
+
 * Mike Shah D : https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV
 
 * Udemy Langchain: https://www.udemy.com/home/my-courses/learning/
@@ -147,8 +149,6 @@ Projects to do and articles to read
 * DE Landscape: https://airbyte.com/blog/data-engineering-landscape-2024
 
 * Codebuffer Patterns: https://www.youtube.com/playlist?list=PLhfxuQVMs-nxlIlZon5tkhI5X-lE2UG4K
-
-* GeoTools tutorials: Tutorial -> https://docs.geotools.org/latest/userguide/
 
 * Amigos Spring Boot (see others too): https://www.youtube.com/watch?v=9SGDpanrc8U
 
