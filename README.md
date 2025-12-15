@@ -6,6 +6,7 @@ Projects to do and articles to read
 
 ### In Flight
 
+* Aegean Databricks lectures
 * Digit Again Medium article
 * Neo4J Medium article
 * Flink Superset article
@@ -38,19 +39,13 @@ Projects to do and articles to read
 
 ### In Flight
 
+* Numeryst GNN: https://www.youtube.com/playlist?list=PLLlTVphLQsuOS1XwHGLW8j2NVtXvhaa76
+  
 * GeoTools tutorials: Tutorial -> https://docs.geotools.org/latest/userguide/
 
 * Mike Shah D : https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV
 
 * Udemy Langchain: https://www.udemy.com/home/my-courses/learning/
-  
-* Hugging Face courses:
-  	- Deep RL : https://huggingface.co/learn/deep-rl-course/unit0/introduction
-  	- Agents : https://huggingface.co/learn/agents-course/unit0/introduction
-  	- MCP: https://huggingface.co/learn/mcp-course/unit0/introduction
-  	- LLM : https://huggingface.co/learn/llm-course/chapter1/1
-  	- Cookbook: https://huggingface.co/learn/cookbook/index
-  	- Diffusion: https://huggingface.co/learn/diffusion-course/unit0/1
 
 * Apache Pinot :
   	- https://www.youtube.com/playlist?list=PLihIrF0tCXdfN6y-twj9KtWaXM1GH4RSe **DONE**
@@ -80,6 +75,14 @@ Projects to do and articles to read
 
 
 ### Back Burner
+
+* Hugging Face courses:
+  	- Deep RL : https://huggingface.co/learn/deep-rl-course/unit0/introduction
+  	- Agents : https://huggingface.co/learn/agents-course/unit0/introduction
+  	- MCP: https://huggingface.co/learn/mcp-course/unit0/introduction
+  	- LLM : https://huggingface.co/learn/llm-course/chapter1/1
+  	- Cookbook: https://huggingface.co/learn/cookbook/index
+  	- Diffusion: https://huggingface.co/learn/diffusion-course/unit0/1
 
 * Chatbot:
   	- https://pub.towardsai.net/build-chatgpt-like-chatbots-with-customized-knowledge-for-your-websites-using-simple-programming-f393206c6626
