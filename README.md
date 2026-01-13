@@ -6,7 +6,6 @@ Projects to do and articles to read
 
 ### In Flight
 
-* Aegean Databricks lectures
 * Digit Again Medium article
 * Neo4J Medium article
 * Flink Superset article
@@ -39,6 +38,8 @@ Projects to do and articles to read
 
 ### In Flight
 
+* Aegean Databricks lectures
+* 
 * Numeryst GNN: https://www.youtube.com/playlist?list=PLLlTVphLQsuOS1XwHGLW8j2NVtXvhaa76
   
 * GeoTools tutorials: Tutorial -> https://docs.geotools.org/latest/userguide/
