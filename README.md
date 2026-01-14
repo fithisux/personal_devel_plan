@@ -33,13 +33,12 @@ Projects to do and articles to read
 * My caching solution in Medium: https://medium.com/@fithis2001/ttl-caching-with-an-expiring-dict-e5a2711e080c
 * Airflow integration testing:
 * Spark streaming Medium article
+* Aegean Databricks lectures
 
 ## Important
 
 ### In Flight
 
-* Aegean Databricks lectures
-* 
 * Numeryst GNN: https://www.youtube.com/playlist?list=PLLlTVphLQsuOS1XwHGLW8j2NVtXvhaa76
   
 * GeoTools tutorials: Tutorial -> https://docs.geotools.org/latest/userguide/
@@ -280,7 +279,7 @@ Projects to do and articles to read
   	- https://carpentries-incubator.github.io/python-text-analysis/07-transformers/index.html
 	
 ### Completed
-
+ 
 * Data cleaning: https://towardsdatascience.com/custom-transformers-in-python-part-ii-6fe111fc82e4
   
 * Typesense : Introducing Typesense, an open source alternative to Algolia & ElasticSearch : https://www.youtube.com/watch?v=F4mB0x_B1AE **DONE**
