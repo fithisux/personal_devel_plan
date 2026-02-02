@@ -39,6 +39,8 @@ Projects to do and articles to read
 
 ### In Flight
 
+* Andrew NG : Agentic-AI
+
 * Numeryst GNN: https://www.youtube.com/playlist?list=PLLlTVphLQsuOS1XwHGLW8j2NVtXvhaa76
   
 * GeoTools tutorials: Tutorial -> https://docs.geotools.org/latest/userguide/
