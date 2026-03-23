@@ -80,6 +80,12 @@ Projects to do and articles to read
 
 ### Back Burner
 
+* How transformers work:
+  - https://www.connorjdavis.com/p/intuitions-for-transformer-circuits
+  - https://news.ycombinator.com/item?id=47439558
+  - Tranformers are Bayessian networks: https://arxiv.org/abs/2603.17063
+  - Trnaformers are GNNs : https://arxiv.org/abs/2506.22084 **Done**
+  
 * Hugging Face courses:
   	- Deep RL : https://huggingface.co/learn/deep-rl-course/unit0/introduction
   	- Agents : https://huggingface.co/learn/agents-course/unit0/introduction
