@@ -39,8 +39,6 @@ Projects to do and articles to read
 
 ### In Flight
 
-* Streamlit Pinot example: https://docs.pinot.apache.org/basics/recipes/streamlit
-
 * Andrew NG, Agentic-AI: https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!
 
 * Numeryst GNN: https://www.youtube.com/playlist?list=PLLlTVphLQsuOS1XwHGLW8j2NVtXvhaa76
@@ -289,6 +287,8 @@ Projects to do and articles to read
   	- https://carpentries-incubator.github.io/python-text-analysis/07-transformers/index.html
 	
 ### Completed
+
+* Streamlit Pinot example: https://docs.pinot.apache.org/basics/recipes/streamlit (See here https://github.com/fithisux/visualize-streamlit-pinot-example)
  
 * Data cleaning: https://towardsdatascience.com/custom-transformers-in-python-part-ii-6fe111fc82e4
   
