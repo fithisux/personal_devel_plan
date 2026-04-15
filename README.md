@@ -290,6 +290,8 @@ Projects to do and articles to read
 	
 ### Completed
 
+* Ben Lambert mini ggplot intro : https://www.youtube.com/playlist?list=PLwJRxp3blEvaYRYWTqQ5ScIow8ZBm3Q92
+  
 * Streamlit Pinot example: https://docs.pinot.apache.org/basics/recipes/streamlit (See here https://github.com/fithisux/visualize-streamlit-pinot-example)
  
 * Data cleaning: https://towardsdatascience.com/custom-transformers-in-python-part-ii-6fe111fc82e4
