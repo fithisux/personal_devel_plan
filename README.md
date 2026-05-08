@@ -39,6 +39,8 @@ Projects to do and articles to read
 
 ### In Flight
 
+* Redpanda Lessons: https://docs.redpanda.com/current/get-started/docker-compose-labs/
+
 * Markit Down for LLMs : https://realpython.com/python-markitdown/
 
 * Andrew NG, Agentic-AI: https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!
