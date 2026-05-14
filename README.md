@@ -8,7 +8,6 @@ Projects to do and articles to read
 
 * Digit Again Medium article
 * Neo4J Medium article
-* Flink Superset article
 
 
 ### Back Burner (Aggressive Wish List)
@@ -292,6 +291,8 @@ Projects to do and articles to read
   	- https://carpentries-incubator.github.io/python-text-analysis/07-transformers/index.html
 	
 ### Completed
+
+* Flink Superset article: https://dev.to/agileactors/yet-another-end-to-end-streaming-dashboarding-example-43dp
 
 * Ben Lambert mini ggplot intro : https://www.youtube.com/playlist?list=PLwJRxp3blEvaYRYWTqQ5ScIow8ZBm3Q92
   
