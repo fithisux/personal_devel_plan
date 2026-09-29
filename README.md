@@ -22,7 +22,6 @@ Projects to do and articles to read
 * LevelGraph On Go (through https://github.com/starskey-io/starskey or something else)
 * Redis Streaming notebook / Medium article
 * Tcl/Tk cosmopolitan
-* Win32 asm examples : https://github.com/bplaat/win32asm
 
 ### Completed
 
@@ -79,6 +78,8 @@ Projects to do and articles to read
 
 ### Back Burner
 
+* Win32 asm examples : https://github.com/bplaat/win32asm
+  
 * Disaster Recovery Article:
   	- https://iceberg.apache.org/spark-quickstart/
   	- https://www.dremio.com/blog/disaster-recovery-for-apache-iceberg-tables-restoring-from-backup-and-getting-back-online/
