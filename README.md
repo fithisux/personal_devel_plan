@@ -365,6 +365,9 @@ Projects to do and articles to read
 	- https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%5D **DONE**
 
 * Hierarchical clustering: https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec
+* COMMON DATA MODEL:
+  - https://learn.microsoft.com/en-us/common-data-model/
+  - https://github.com/microsoft/CDM
 
 ### Low priority
 
@@ -479,4 +482,12 @@ Projects to do and articles to read
  
 * Webapp Rust: https://kerkour.com/web-application-with-rust-and-webassembly
 
-* Datalog introduction: https://blogit.michelin.io/an-introduction-to-datalog/
+* Datalog
+  - introduction: https://blogit.michelin.io/an-introduction-to-datalog/
+  - Datalog (2): https://arxiv.org/abs/2304.04332
+
+* Zero ETL:
+  - https://medium.com/codex/the-new-buzzword-in-data-engineering-zero-etl-f9a78add95e1
+  - https://insightsndata.com/zero-etl-a-new-future-of-data-integration-9ca2ea3f6c2e
+  - https://medium.com/@hugolu87/zero-elt-could-be-the-death-of-the-modern-data-stack-cfdd56c9246d
+  - https://medium.com/codex/is-the-zero-etl-approach-the-end-of-the-data-engineer-32f34fd434cd
