@@ -498,7 +498,7 @@ Projects to do and articles to read
 
 * Datalog
   - introduction: https://blogit.michelin.io/an-introduction-to-datalog/
-  - Datalog (2): https://arxiv.org/abs/2304.04332
+  - Unifying Datalog and Equality Saturation: https://arxiv.org/abs/2304.04332
  
 * Structured concurrency https://www.baeldung.com/java-structured-concurrency
 
