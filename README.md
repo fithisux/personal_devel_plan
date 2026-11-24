@@ -291,7 +291,16 @@ Projects to do and articles to read
   	- https://thegradient.pub/transformers-are-graph-neural-networks/
   	- https://www.analyticsvidhya.com/blog/2021/09/a-deep-dive-into-transformers-library/
   	- https://carpentries-incubator.github.io/python-text-analysis/07-transformers/index.html
-	
+ 
+* How FoundationDB works: https://blog.the-pans.com/notes-on-the-foundationdb-paper/
+
+* SQLite internals: https://www.compileralchemy.com/books/sqlite-internals/
+
+* Multiquery attention: https://blog.fireworks.ai/multi-query-attention-is-all-you-need-db072e758055
+
+* Json schema: https://romanglushach.medium.com/json-schema-the-secret-to-building-scalable-and-maintainable-data-models-2c456d90f73b
+* RLHF: https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx
+* 
 ### Completed
 
 * Flink Superset article: https://dev.to/agileactors/yet-another-end-to-end-streaming-dashboarding-example-43dp
@@ -365,11 +374,16 @@ Projects to do and articles to read
 	- https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%5D **DONE**
 
 * Hierarchical clustering: https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec
+
+* Multimodule maven Application: https://www.baeldung.com/maven-multi-module-project-java-jpms
+
+### Low priority
+
+* JAAS: https://www.baeldung.com/java-authentication-authorization-service
+
 * COMMON DATA MODEL:
   - https://learn.microsoft.com/en-us/common-data-model/
   - https://github.com/microsoft/CDM
-
-### Low priority
 
 * Shapley Values : https://medium.com/mlearning-ai/differences-between-sobol-and-shap-sensitivity-analysis-on-housing-prices-predictions-b3f3104ed7e1
   
@@ -485,6 +499,10 @@ Projects to do and articles to read
 * Datalog
   - introduction: https://blogit.michelin.io/an-introduction-to-datalog/
   - Datalog (2): https://arxiv.org/abs/2304.04332
+ 
+* Structured concurrency https://www.baeldung.com/java-structured-concurrency
+
+* Baez Networks: https://math.ucr.edu/home/baez/networks/
 
 * Zero ETL:
   - https://medium.com/codex/the-new-buzzword-in-data-engineering-zero-etl-f9a78add95e1
